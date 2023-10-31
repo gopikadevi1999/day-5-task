@@ -27,7 +27,7 @@ for (var [key, value] of Object.entries(jsonObject)) {
   
 //create a own resume data in JSON format
 
-const MYresume = {
+const MyResume = {
     "name": "JGopikadevi",
     "email": "deviradhakrishnan@gmail.com",
     "phone": "9789235454",
@@ -58,8 +58,7 @@ const MYresume = {
       "Teamwork"]
     }
 
-  
-
+  console.log(MyResume);
 
   
   
